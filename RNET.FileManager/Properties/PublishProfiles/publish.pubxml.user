@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\vuongnv.NSVC\Desktop\fileupload</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/RNET.FileManager.dll">
+      <publishTime>04/07/2017 15:43:42</publishTime>
+    </File>
+    <File Include="Content/animate.css">
+      <publishTime>01/29/2016 18:34:52</publishTime>
+    </File>
+    <File Include="Content/animate.min.css">
+      <publishTime>01/29/2016 18:34:51</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>01/30/2016 23:39:01</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>01/30/2016 23:39:01</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>01/30/2016 23:39:01</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>01/30/2016 23:39:01</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>01/30/2016 23:39:02</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>01/30/2016 23:39:01</publishTime>
+    </File>
+    <File Include="Content/bootstrap.custom.css">
+      <publishTime>03/21/2016 15:55:28</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>01/30/2016 23:39:01</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>01/30/2016 23:39:01</publishTime>
+    </File>
+    <File Include="Content/cerulean.css">
+      <publishTime>01/30/2016 23:37:41</publishTime>
+    </File>
+    <File Include="Content/cerulean.min.css">
+      <publishTime>01/30/2016 23:37:41</publishTime>
+    </File>
+    <File Include="Content/img/fabric_plaid.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/AC3.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/ACE.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/ADE.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/ADP.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/AI.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/AIFF.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/AU.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/AVI.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/BAT.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/BIN.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/BMP.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/BUP.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/CAB.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/CAT.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/CHM.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/CSS.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/CSV.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/CUE.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/DAT.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/DCR.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/Default.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/Default2.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/DER.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/DIC.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/DIVX.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/DIZ.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/DLL.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/DOC.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/DOCX.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/DOS.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/DVD.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/DWG.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/DWT.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/EMF.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/EXC.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/EXE.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/FLA.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/FOLDER.png">
+      <publishTime>07/19/2015 23:56:42</publishTime>
+    </File>
+    <File Include="Content/img/ico/FON.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/GIF.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/HLP.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/HTM.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/HTML.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/IFO.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/INF.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/INI.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/INS.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/IP.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/ISO.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/ISP.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/JAVA.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/JFIF.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/JPEG.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/JPG.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/JS.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/LOG.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/M4A.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/MID.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/MMF.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/MMM.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/MOV.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/MOVIE.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/MP2.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/MP2V.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/MP3.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/MP4.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/MPE.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/MPEG.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/MPG.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/MPV2.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/NFO.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/PDD.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/PDF.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/PHP.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/PNG.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/PPT.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/PPTX.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/PSD.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/RAR.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/REG.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/RTF.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/SCP.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/SQL.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/THEME.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/TIF.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/TIFF.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/TLB.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/TTF.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/TXT.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/UIS.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/URL.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/VBS.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/VCR.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/VOB.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/WAV.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/WBA.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/WMA.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/WMV.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/WPL.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/WRI.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/WTX.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/XLS.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/XLSX.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/XML.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/XSL.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/ZAP.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/ico/ZIP.png">
+      <publishTime>04/19/2014 07:32:19</publishTime>
+    </File>
+    <File Include="Content/img/spritemap.png">
+      <publishTime>08/04/2015 12:28:17</publishTime>
+    </File>
+    <File Include="Content/ui-bootstrap-csp.css">
+      <publishTime>02/01/2016 09:11:49</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>03/21/2016 16:55:53</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>01/30/2016 23:39:01</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>01/30/2016 23:39:01</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>01/30/2016 23:39:01</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>01/30/2016 23:39:01</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>01/30/2016 23:39:01</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/01/2016 09:11:49</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>04/07/2017 15:44:43</publishTime>
+    </File>
+    <File Include="Scripts/angular-clipboard.js">
+      <publishTime>02/01/2016 10:03:30</publishTime>
+    </File>
+    <File Include="Scripts/angular-mocks.js">
+      <publishTime>01/22/2016 18:38:38</publishTime>
+    </File>
+    <File Include="Scripts/angular-ui/ui-bootstrap-tpls.js">
+      <publishTime>02/01/2016 09:11:48</publishTime>
+    </File>
+    <File Include="Scripts/angular-ui/ui-bootstrap-tpls.min.js">
+      <publishTime>02/01/2016 09:11:47</publishTime>
+    </File>
+    <File Include="Scripts/angular-ui/ui-bootstrap.js">
+      <publishTime>02/01/2016 09:11:49</publishTime>
+    </File>
+    <File Include="Scripts/angular-ui/ui-bootstrap.min.js">
+      <publishTime>02/01/2016 09:11:48</publishTime>
+    </File>
+    <File Include="Scripts/angular.js">
+      <publishTime>01/22/2016 18:38:43</publishTime>
+    </File>
+    <File Include="Scripts/angular.min.js">
+      <publishTime>01/22/2016 18:38:43</publishTime>
+    </File>
+    <File Include="Scripts/angular.min.js.map">
+      <publishTime>01/22/2016 18:38:43</publishTime>
+    </File>
+    <File Include="Scripts/bootbox.js">
+      <publishTime>01/31/2016 00:08:48</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>01/30/2016 23:39:00</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>01/30/2016 23:39:00</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/basic.css">
+      <publishTime>07/16/2015 21:21:16</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/basic.min.css">
+      <publishTime>07/16/2015 21:21:16</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/dropzone-amd-module.js">
+      <publishTime>07/20/2015 22:42:28</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/dropzone-amd-module.min.js">
+      <publishTime>07/16/2015 21:21:16</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/dropzone.css">
+      <publishTime>07/16/2015 21:21:16</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/dropzone.js">
+      <publishTime>08/05/2015 11:53:08</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/dropzone.min.css">
+      <publishTime>07/16/2015 21:21:16</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/dropzone.min.js">
+      <publishTime>07/20/2015 22:43:55</publishTime>
+    </File>
+    <File Include="Scripts/filemanager.js">
+      <publishTime>03/21/2016 16:58:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.4.js">
+      <publishTime>07/17/2015 22:56:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.4.min.js">
+      <publishTime>07/17/2015 22:56:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.4.min.map">
+      <publishTime>07/17/2015 22:56:41</publishTime>
+    </File>
+    <File Include="Scripts/ngStorage.js">
+      <publishTime>01/31/2016 20:38:24</publishTime>
+    </File>
+    <File Include="Scripts/ngStorage.min.js">
+      <publishTime>01/31/2016 20:38:26</publishTime>
+    </File>
+    <File Include="Scripts/ui-tree/ui-tree.css">
+      <publishTime>01/30/2016 18:03:03</publishTime>
+    </File>
+    <File Include="Scripts/ui-tree/ui-tree.js">
+      <publishTime>02/03/2016 10:05:47</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/07/2017 15:44:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

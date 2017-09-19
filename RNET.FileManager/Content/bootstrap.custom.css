@@ -1,0 +1,169 @@
+* {
+    border-radius: 0 !important;
+}
+
+body {
+    overflow-y: scroll;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background: url('img//fabric_plaid.png') repeat;
+}
+
+.ff-manager a {
+    cursor: pointer;
+}
+
+    .ff-manager a:hover {
+        text-decoration: none;
+    }
+
+.ff-manager .breadcrumb > li:last-child:before {
+    content: '';
+}
+
+.ff-manager hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.ff-manager .thumbnail {
+    border: 3px solid transparent;
+}
+
+    .ff-manager .thumbnail.checked {
+        border: 3px solid #f00;
+    }
+
+        .ff-manager .thumbnail.checked .icon-checked {
+            position: absolute;
+            top: 0;
+            right: 20px;
+            color: #f00;
+            content: '' !important;
+            display: inline-block;
+            font-style: normal;
+            font-size: 2em;
+            font-family: 'Glyphicons Halflings';
+        }
+
+            .ff-manager .thumbnail.checked .icon-checked:before {
+                content: '\e089';
+            }
+
+.ff-manager .row.ff-filters {
+    padding: 10px 0;
+}
+
+.ff-manager .row.ff-find-box {
+    padding: 0 0 10px 0;
+}
+
+.ff-manager .row.ff-uploader .row {
+    padding: 10px 0 10px 0;
+}
+
+.ff-manager .row.ff-uploader form {
+    min-height: 400px;
+    background: url('img/spritemap.png') no-repeat center;
+}
+
+    .ff-manager .row.ff-uploader form .dz-default.dz-message {
+        display: none;
+        visibility: hidden;
+    }
+
+.ff-manager .dropzone .dz-preview.dz-image-preview {
+    background-color: transparent;
+}
+
+.ff-manager .btn .glyphicon:not(.glyphicon-0x) {
+    padding-right: 5px;
+}
+
+.ff-manager .index {
+    width: 1%;
+}
+
+.ff-manager .action-toolbox {
+    width: 175px;
+}
+
+.ff-manager .table-hover > tbody > tr,
+.ff-manager .table-hover > tbody > tr td {
+    line-height: 26px;
+}
+
+    .ff-manager .table-hover > tbody > tr .toolbox {
+        display: none;
+        visibility: hidden;
+    }
+
+    .ff-manager .table-hover > tbody > tr:hover .toolbox {
+        display: initial;
+        visibility: initial;
+    }
+
+.ff-manager .btn-group-sm.toolbox .btn {
+    padding: 3px 10px;
+}
+
+    .ff-manager .btn-group-sm.toolbox .btn .glyphicon {
+        padding: 0;
+        font-size: 0.8em;
+    }
+
+.ff-manager .breadcrumb a {
+    cursor: pointer;
+}
+
+.ff-manager .abn-tree .tree-icon {
+    padding-right: 10px;
+}
+
+.ff-manager .btn-default {
+    border-color: rgb(204, 204, 204);
+}
+
+.ff-manager .thumbnail img {
+    height: 125px;
+}
+
+    .ff-manager .thumbnail img:hover {
+        cursor: pointer;
+    }
+
+.ff-manager .disabled {
+    opacity: 0.5;
+}
+
+.ff-manager .tree-view {
+    overflow: hidden;
+}
+
+.ff-manager .panel-login {
+    margin-top: 120px;
+}
+
+.bootbox.bootbox-confirm .modal-footer {
+    padding: 10px;
+    text-align: center;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #eaeaea;
+    border-left: 1px solid #ccc;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+}
+
+    ::-webkit-scrollbar-thumb:hover {
+        background-color: #aaa;
+    }
